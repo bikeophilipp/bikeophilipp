@@ -5,7 +5,7 @@
 )](https://soundcloud.com/user-730695088)
 
 
-I work in Business Development in the Pharmaceutical industry :dna: , but discovered programming as a hobby a some years ago.
+I work in Business Development in the Pharmaceutical industry :dna: , but discovered programming as a hobby a few years ago.
 
 I enjoy creating modern, dynamic and responsive Web Apps in React that I use for myself almost on a daily basis.
 
